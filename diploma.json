@@ -1,0 +1,24 @@
+{
+	"structura_diploma": {
+		"diploma": [
+			{
+				"titlu": "Diplomă"
+			},
+			{
+				"text_1": "Se acordă........................",
+				"nume": "elevului/elevei.....................",
+				"anul_de_studii": "din clasa......",
+				"scoala": "de la...........................",
+				"localitatea": "din localitatea..............,",
+				"nume_indrumator": "învățător/instituitor/profesor...............,",
+				"rezultate": "pentru.........................",
+				"text_2": "la concursul școlar de limba și literatura română -clasa a-X-a, etapa județeană, organizat de Inspectorul Școlar Județean Argeș."
+			},
+			{
+				"semnatura": "Semnatura",
+				"stampila": "Stampila sau sigiliul original",
+				"data": "Data........"
+			}
+		]
+	}
+}

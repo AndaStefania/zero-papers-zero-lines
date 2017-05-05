@@ -1,0 +1,22 @@
+<?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
+
+<structura_diploma>
+<diploma>
+ <titlu>Diplomă</titlu>
+ </diploma>
+<diploma>
+ <text_1>Se acordă........................</text_1>
+ <nume>elevului/elevei.....................</nume>
+ <anul_de_studii>din clasa......</anul_de_studii>
+ <scoala>de la...........................</scoala>
+ <localitatea>din localitatea..............,</localitatea>
+ <nume_indrumator>învățător/instituitor/profesor...............,</nume_indrumator>
+ <rezultate>pentru.........................</rezultate>
+ <text_2>la concursul școlar de limba și literatura română -clasa a-X-a, etapa județeană, organizat de Inspectorul Școlar Județean Argeș.</text_2>
+ </diploma>
+<diploma>
+ <semnatura>Semnatura</semnatura>
+ <stampila>Stampila sau sigiliul original</stampila>
+ <data>Data........</data>
+ </diploma>
+ </structura_diploma>
